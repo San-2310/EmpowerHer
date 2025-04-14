@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032571944969",
+    "project_id": "empower-her-48a17",
+    "storage_bucket": "empower-her-48a17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032571944969:android:0eb0f08871a4ed50a9b8d8",
+        "android_client_info": {
+          "package_name": "com.example.empower_her"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6lMBZ2C2rG3c8HXyzVSMMOG6xNSZMXdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
