@@ -21,17 +21,32 @@ EmpowerHer bridges this **discovery-to-employment gap**.
 
 ## 🔥 Core Features
 
-### 🖼️ 1. **Photo-Based Skill Recognition**
+### 🖼️ 1. **Photo-Based Skill Recognition & Roadmap Generation**
 
-- User uploads a photo of their work (e.g., stitched blouse, rakhi, painting)
-- AI detects:
+EmpowerHer doesn’t just detect skills — it builds the whole journey.
+
+- Upload a photo of your craft (e.g., stitched blouse, pottery)
+- AI analyzes:
   - Techniques used
-  - Tools/materials identified
-  - Proficiency level
-- Suggests:
-  - Skill match with real job postings
-  - Personalized upskilling path
-  - Expected salary boost
+  - Materials/tools involved
+  - Skill level + style
+- Matches with real employer requirements
+- Shows:
+  - Jobs you qualify for
+  - Skills needed to earn more
+  - Personalized **learning + earning roadmap**
+
+#### 📚 What Happens Next:
+
+- 🔎 **YouTube Learning Suggestions**
+  - Auto-fetched, filtered by skill gap
+  - Short videos in regional languages
+- 📱 **In-App Courses**
+  - Levels: Beginner → Advanced
+  - Progress tracking, interactive voice, screen narration
+- 🏆 **Gamification**
+  - Earn badges like “Threading Pro”, “Artisan Star”
+  - AI-certified resume + project-based portfolio auto-generated
 
 ---
 
